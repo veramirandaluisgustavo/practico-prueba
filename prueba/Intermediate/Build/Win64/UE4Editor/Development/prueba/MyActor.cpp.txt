@@ -1,0 +1,3 @@
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\Definitions.prueba.h
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Source\prueba\MyActor.h
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Inc\prueba\MyActor.generated.h

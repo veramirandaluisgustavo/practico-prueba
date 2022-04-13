@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "prueba",
+			"Path": "C:\\Users\\HP\\Desktop\\Sis457\\practico prueba\\prueba\\Source\\prueba.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "pruebaEditor",
+			"Path": "C:\\Users\\HP\\Desktop\\Sis457\\practico prueba\\prueba\\Source\\pruebaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-prueba-8436.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\pruebaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\MyActor.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\prueba.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\pruebaGameModeBase.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\MyActor.gen.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\prueba.init.gen.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\pruebaGameModeBase.gen.cpp.obj"
+"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\Default.rc2.res"
+/OUT:"C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\UE4Editor-prueba-8436.lib"

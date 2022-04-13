@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Development\prueba\Definitions.prueba.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Source\prueba/MyActor.h
+C:\Users\HP\Desktop\Sis457\practico prueba\prueba\Intermediate\Build\Win64\UE4Editor\Inc\prueba\MyActor.generated.h

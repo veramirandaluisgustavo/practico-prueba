@@ -1,0 +1,97 @@
+
+# Creado por https://www.toptal.com/developers/gitignore/api/unrealengine
+# Editar en https://www.toptal.com/developers/gitignore?templates=unrealengine
+
+### Motor irreal ###
+# Archivos específicos de usuario de Visual Studio 2015
+.vs/
+
+# Archivos de objetos compilados
+*.slo
+*.lo
+*.o
+*.obj
+
+# encabezados precompilados
+*.gch
+*.pch
+
+# Bibliotecas dinámicas compiladas
+*.asi que
+*.dylib
+*.dll
+
+# Archivos del módulo Fortran
+*.modificación
+
+# Bibliotecas estáticas compiladas
+*.lai
+*.la
+*.un
+*.lib
+
+# ejecutables
+*.exe
+*.afuera
+*.aplicación
+*.ipa
+
+# Estos archivos de proyecto pueden ser generados por el motor
+*.xcodeproj
+*.xcespacio de trabajo
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Activos precompilados
+FuenteArt/**/*.png
+SourceArt/**/*.tga
+
+# Archivos Binarios
+Binarios/*
+Complementos/*/Binarios/*
+
+# Construcciones
+Construir/*
+
+# Whitelist PakBlacklist-<BuildConfiguration>.txt files
+!Construir/*/
+Construir/*/**
+!Build/*/Lista negra de paquetes*.txt
+
+# No ignore los archivos de iconos en Build
+!Construir/**/*.ico
+
+# Datos construidos para mapas
+*_BuiltData.uasset
+
+# Archivos de configuración generados por el Editor
+Salvado/*
+
+# Archivos fuente compilados para que los use el motor
+Intermedio/*
+Complementos/*/Intermedio/*
+
+# Archivos de caché para que los use el editor
+Caché de datos derivados/*
+
+### Parche de UnrealEngine ###
+# No ignore los íconos y las imágenes de bienvenida para la aplicación móvil
+!Construir/IOS/Recursos/
+Compilación/IOS/Recursos/*
+!Build/IOS/Recursos/Gráficos/
+Compilación/IOS/Recursos/Gráficos/*
+!Build/IOS/Recursos/Gráficos/*.png
+!Construir/Android/res/
+Compilación/Android/res/*
+!Construir/Android/res/*/
+Compilación/Android/res/*/*
+!Construir/Android/res/*/*.png
+# Ignorar complementos binarios en subcarpetas profundas
+Complementos/**/Binarios/*
+Complementos/**/Intermedio/*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/unrealengine
